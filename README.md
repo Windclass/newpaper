@@ -1,7 +1,7 @@
 # newpaper
 test for  us
-package cn.yc.hz;
-
+package cn.yc.hz
+写了一大堆作业来摆着，第一次诺曼底登录 NICE！
 public class H1 {
 public static void main(String[] args) {
 	String z1 = "Youaremylover";
